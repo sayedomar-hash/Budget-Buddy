@@ -312,7 +312,7 @@ int main()
             printf("║                                                                ║\n");
             printf("║   Name: Mohammad Ishfaqul Islam   ID: C243021   Section: 1AM   ║\n");
             printf("║   Name: Shajidul Hoque Galib      ID: C243105   Section: 1AM   ║\n");
-            printf("║   Name: Sayeed Mohammad Omar      ID: C243004   Section: 1AM   ║\n");
+            printf("║   Name: Sayed Mohammad Omar      ID: C243004   Section: 1AM   ║\n");
             printf("║                                                                ║\n");
             printf("╚════════════════════════════════════════════════════════════════╝\n");
             return 0;
